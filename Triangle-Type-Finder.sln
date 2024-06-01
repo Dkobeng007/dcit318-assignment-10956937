@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle-Type-Finder", "Triangle-Type-Finder.csproj", "{0FD48905-4C11-4A61-94CF-53DCB7D2B112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD48905-4C11-4A61-94CF-53DCB7D2B112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD48905-4C11-4A61-94CF-53DCB7D2B112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD48905-4C11-4A61-94CF-53DCB7D2B112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD48905-4C11-4A61-94CF-53DCB7D2B112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBEA7A09-5C46-4A03-AFAA-1805C6A643F3}
+	EndGlobalSection
+EndGlobal
